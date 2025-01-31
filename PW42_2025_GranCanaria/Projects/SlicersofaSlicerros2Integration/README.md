@@ -89,7 +89,9 @@ In this project, we aim to create a proof-of-concept integration where a Phantom
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Having a scene with the Phantom Omni model and the liver
+2. Having a stylus interacting in this scene with the liver
+3. Last step : Making the stylus from the SOFA simulation follow the stylus from the robot (merging them together and apply the same transformation tip to stylus to both)
 
 
 
